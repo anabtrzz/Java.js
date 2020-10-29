@@ -19,8 +19,7 @@ function name(params) {
 
 //exemplo prático
 function sum(a, b){
-    a:1
-    b:5
+    (1,5)
     return 1+5;
 }; 
 console.log(sum);
