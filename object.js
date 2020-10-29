@@ -1,9 +1,9 @@
 //OBJECT estrutura
 
 var obj = {
-    característica 1,
-    característica 2,
-    característica 3,
+    característica: 1,
+    característica: 2,
+    característica: 3,
 };
 console.log(obj);
 
